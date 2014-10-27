@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex03.GarageLogic", "Ex03.GarageLogic\Ex03.GarageLogic.csproj", "{7EC0C622-4844-45EF-B453-8EFDCAF9040C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex03.GarageManagementSystem.ConsoleUI", "Ex03.GarageManagementSystem.ConsoleUI\Ex03.GarageManagementSystem.ConsoleUI.csproj", "{0C1E50EC-B91A-4980-8F23-1F7D7C2F0D2E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F66A41D4-6DF6-4E27-A968-B6BA09A56B57}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+		..\..\..\..\Desktop\מסמך הררכית המחלקות ופירוטן.docx = ..\..\..\..\Desktop\מסמך הררכית המחלקות ופירוטן.docx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EC0C622-4844-45EF-B453-8EFDCAF9040C}.Debug|x86.ActiveCfg = Debug|x86
+		{7EC0C622-4844-45EF-B453-8EFDCAF9040C}.Debug|x86.Build.0 = Debug|x86
+		{7EC0C622-4844-45EF-B453-8EFDCAF9040C}.Release|x86.ActiveCfg = Release|x86
+		{7EC0C622-4844-45EF-B453-8EFDCAF9040C}.Release|x86.Build.0 = Release|x86
+		{0C1E50EC-B91A-4980-8F23-1F7D7C2F0D2E}.Debug|x86.ActiveCfg = Debug|x86
+		{0C1E50EC-B91A-4980-8F23-1F7D7C2F0D2E}.Debug|x86.Build.0 = Debug|x86
+		{0C1E50EC-B91A-4980-8F23-1F7D7C2F0D2E}.Release|x86.ActiveCfg = Release|x86
+		{0C1E50EC-B91A-4980-8F23-1F7D7C2F0D2E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
